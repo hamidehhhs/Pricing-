@@ -9,4 +9,4 @@ pricing optimization <br/>
  By considering all these an airline can set up strategic decision. But, there is another element of strategic pricing that must be considered — how does an airline learn from what it has implemented? Airlines need to be able to test the market beyond where they have been historically operating to ensure their strategies are working and they learn from the competition.
  These monitoring market performance and competitor actions are element of tactical decision 
  
- ![](Screen Shot 2018-10-25 at 6.27.02 PM.png)
+ ![pric opt](https://github.com/hamidehhhs/Pricing-/blob/master/Screen%20Shot%202018-10-25%20at%206.27.02%20PM.png)
