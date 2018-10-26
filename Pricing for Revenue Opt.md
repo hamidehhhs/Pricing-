@@ -14,6 +14,7 @@ In this paper they study China High speed railway system and They try to fin. Ou
 For Example in Fig 2 we can see the differnet of this two system , 
 
 *  We will design different fare classes for homogeneous seats based on different customer types, which can increase ticket revenue by better meeting various needs of different types of customers. The customer choice behaviour of each customer type is described by a choice model based on the notion of customer preference order. In addition, multiple trains with different train stop plans are regarded as a whole for optimization. Furthermore, the actual passenger demand is characterized by randomness, and a control strategy without considering the randomness of passenger demand is difficult to obtain better control results. Therefore, our control strategy is provided based on stochastic passenger demand and the passenger demand function can follow any random distribution. And we use random passenger demand density function to generate simulated demands to assess the effectiveness of our control strategy. Finally, to demonstrate the superiority of our strategy, the current control method of the CRCSC is regarded as a comparison scheme in a real-life case. <br/>
+[Full story] (https://github.com/hamidehhhs/Pricing-/blob/master/paper/seat%20assignment%20model%20.pdf)
 
 ### Type 2
 In their optimization model to revenue the descion variable is price. which is dynamic with respect to something 
