@@ -18,9 +18,10 @@ For Example in Fig 2 we can see the differnet of this two system ,
 
 ### Type 2
 In their optimization model to revenue the descion variable is price. which is dynamic with respect to something <br/> 
-In this paper this paper examines how to adjust ticket price over time based on passenger choice behavior for each O-D.<br/>
+In ![this paper](https://github.com/hamidehhhs/Pricing-/blob/master/paper/Fare%20Opt%20and%20passenger%20choice%20behavior.pdf) this paper examines how to adjust ticket price over time based on passenger choice behavior for each O-D.<br/>
 Customer categories 
 * myopic : buy a product as soon as its price is less than their reservation price
 * strategic : optimize their purchase behavior according to the company pricing strategy
 In we assume myopic behavior in this paper. Since there is not too much information and time for customers to make strategic decisions when purchasing railway tickets
 In this paper they use the following model for Passenger demand is usually characterized as a Poisson process,
+
