@@ -27,3 +27,6 @@ In this paper they use the following model for Passenger demand is usually chara
 
 ### Revenue optimization in the present of competitor 
 
+ Thus, the demand for a seat depends not only on its price, but also on the price of a similar schedule for a different mode. 
+<br/>
+We use the multinomial logit (MNL) model to describe the customers’ choice behavior.
