@@ -24,5 +24,6 @@ Customer categories
 * strategic : optimize their purchase behavior according to the company pricing strategy
 In we assume myopic behavior in this paper. Since there is not too much information and time for customers to make strategic decisions when purchasing railway tickets
 In this paper they use the following model for Passenger demand is usually characterized as a Poisson process,
-$ x^2 $
+
+### Revenue optimization in the present of competitor 
 
