@@ -1,1 +1,3 @@
 In page 3 there is table disscus it 
+Under the competitive environment, the implemented pricing systems differ from HSR company to company. It can be classified into three types of selling method.<br/>
+(1) A ticket price is predetermined between origin and destination stations and it stays un- changed throughout the selling period. HSR companies in Japan, China and Taiwan are using this type of selling method. (2) Ticket prices are predetermined, but different prices are set depending on the day of week and time zone. This type of method is used by HSR companies in Korea, Germany and America. (3) A price is adjusted based on the sales volume in real time. It is called dynamic pricing and HSR companies in France and the United Kingdom are adapting this method.
