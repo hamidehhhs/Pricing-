@@ -22,7 +22,7 @@ we assume myopic behavior in this paper. Since there is not too much information
 * Brief review of this paper: 
 They assume there is j=1 to n different O-D itineraries each has a ticket selling period with  <img src="https://latex.codecogs.com/svg.latex?\inline&space;T_j" title="T_j" /> subperiod. Let <img src="https://latex.codecogs.com/svg.latex?\inline&space;d_j^t" title="d_j^t" /> be the duration of subperiof t for itinerary j. They intend to maximize revenue through the following optimization problem: <img src="https://latex.codecogs.com/svg.latex?\inline&space;\max&space;R(\lambda)=\sum_{j=1}^n&space;\sum_{t=1}^{T_j}&space;\lambda_j^tP_j^t(\lambda)d_j^t" title="\max R(\lambda)=\sum_{j=1}^n \sum_{t=1}^{T_j} \lambda_j^tP_j^t(\lambda)d_j^t" /> with some proper constraints. In this programming <img src="https://latex.codecogs.com/svg.latex?\inline&space;\lambda_j^t" title="\lambda_j^t" /> are decision variables and are demand density (amount of demand in unit time) of product 𝑗 in subperiod 𝑡, and P is a price function with respect to the demand. {Its numerical exprement is worth to check}
 
-
+### [Revenue managment based on dynamic pricing in the presense of transport competition]
 
 
 ### Revenue optimization in the present of competitor 
