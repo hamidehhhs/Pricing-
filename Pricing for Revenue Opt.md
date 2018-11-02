@@ -3,7 +3,7 @@
 * Revenue management is aimed to find a way of selling the right product to the right customer at the right time for the right price.
 Here we will review some papers concerning this subject. 
 
-### [Revenue management with seat inventory control method (Case study China high speed railway)] (https://github.com/hamidehhhs/Pricing-/blob/master/paper/seat%20assignment%20model%20.pdf)
+ ### [Revenue management with seat inventory control method Case study China high speed railway](https://github.com/hamidehhhs/Pricing-/blob/master/paper/seat%20assignment%20model%20.pdf)
 They assume that different fare classes for homogenous seats is available and they predict customer behavior   according to customer preference orders. Then they try to improve revenue by controlling determinestic booking limits for each fare class. 
 One of the key feature in their method  is that if  there is multiple train avaiable for each O-D itinerary, design a seat allocation for the whole train instead of one by one. (See the example of page 4 of the paper) 
 
