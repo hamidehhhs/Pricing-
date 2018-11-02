@@ -24,15 +24,17 @@ They assume there is j=1 to n different O-D itineraries each has a ticket sellin
 
 ### [Revenue managment based on dynamic pricing in the presense of transport competition](https://github.com/hamidehhhs/Pricing-/blob/master/paper/Dynamic%20pricing%20of%20HSR%20with%20compettition%20.pd)
 
-The demand for a seat depends in high speed railway not only on its price, but also on the price of a similar schedule for a different mode like airplane.<br/>
+The demand for a seat depends in high speed railway not only on its price, but also on the price of a similar schedule 
+for a different mode like airplane. Their analysis is based on the assumption that each mode keeps track of the real-time 
+number of seats available in all other modes.<br/>
 In their paper  take into account a passenger who cancels their reservation or no-shows, and are overbooked by the company.
 * Breif review 
-We assume that there are n types of transportation modes (for example, railway, airplane, expressway bus and so on) between a single origin and destination pair, and each transit agency provides an alternative schedule in a day.
+We assume that there are n types of transportation modes (for example, railway, airplane, expressway bus and so on) 
+between a single origin and destination pair, and each transit agency provides an alternative schedule in a day.
+Their objective is to find a pricing strategy that maximize the revenue for each mode and prove that there is Nash 
+equilibrium in the mixed strategies under some resonable assumptions.
+Consider <img src="https://latex.codecogs.com/svg.latex?\inline&space;f_{ij}(x,t)" title="f_{ij}(x,t)" /> be the price of jth schedules 
+of mode i, for a different time t and different number of booking x. They formulate a revenue for each mode  depend on 
+the price after taking into account the cancalation refund. and find the optimum pricing strategy for each mode.
+{Their model for revenue is very intersting , the whole paper is very worth to read!}
 
-### Revenue optimization in the present of competitor 
-
- The demand for a seat depends not only on its price, but also on the price of a similar schedule for a different mode. 
-<br/>
-We use the multinomial logit (MNL) model to describe the customers’ choice behavior.
-
-<img src="https://latex.codecogs.com/svg.latex?\inline&space;x^2" title="x^2" />
