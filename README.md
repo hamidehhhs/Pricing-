@@ -9,16 +9,6 @@ There is many pricing optimization application that either design a new or monit
 More specificly about Fare optimization there are also many succseful software 
 * [Strategic Fare Optimization](https://www.sabre.com/insights/innovation-hub/prototypes/strategic-fare-optimizer/)
 The main purpose is find an efficient pricing strategy for high speed train. <br/>
+pricing systems differ from HSR company to company. It can be classified into three types of selling method. (1) A ticket price is predetermined between origin and destination stations and it stays un- changed throughout the selling period. HSR companies in Japan, China and Taiwan are using this type of selling method. (2) Ticket prices are predetermined, but different prices are set depending on the day of week and time zone. This type of method is used by HSR companies in Korea, Germany and America. (3) A price is adjusted based on the sales volume in real time. It is called dynamic pricing and HSR companies in France and the United Kingdom are adapting this method.
 First we will review some basic concepts about  pricing in train or airline indutry. Then try to defind problems lead to 
 pricing optimization <br/> 
-### Airline pricing optimization 
-" airlines  Airlines cannot get caught up in trying to be everything to everyone while competing head-to-head with every airline and still expect to achieve success." <br/>
- pricing strategy can be a tools for total revenue optimization <br/>
-  <br/>
- Big data analysis can provide a way for predictive analytics of user behaviors. That’s where change and new pricing practices are essential for competitive airlines. <br/>
- By considering all these an airline can set up strategic decision. But, there is another element of strategic pricing that must be considered — how does an airline learn from what it has implemented? Airlines need to be able to test the market beyond where they have been historically operating to ensure their strategies are working and they learn from the competition.
- These monitoring market performance and competitor actions are element of tactical decision <br/>
- 
- 
- There is many successful examples which used strategic price in their system which we can take idea from , Like Uber. 
-[Full story](http://www.ascendforairlines.com/2017-issue-no-2/pricing-optimization)
