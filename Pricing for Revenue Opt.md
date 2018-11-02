@@ -16,17 +16,14 @@ where <img src="https://latex.codecogs.com/svg.latex?\inline&space;h_{jr}^k" tit
 Table 1 of page 7 include good review 
 Name of paper :<br/>
 
+### [Revenue managment with fare optimization base on passenger demand case study China HSR](https://github.com/hamidehhhs/Pricing-/blob/master/paper/Fare%20Opt%20and%20passenger%20choice%20behavior.pdf)
+They devide customer behaivour in to two category 1) myopic {buy a product as soon as its price is less than their reservation price} and 2) strategic {optimize their purchase behavior according to the company pricing strategy}
+we assume myopic behavior in this paper. Since there is not too much information and time for customers to make strategic decisions when purchasing railway tickets.
+* Brief review of this paper: 
+They assume there is j=1 to n different O-D itineraries each has a ticket selling period with  <img src="https://latex.codecogs.com/svg.latex?\inline&space;T_j" title="T_j" /> subperiod. Let <img src="https://latex.codecogs.com/svg.latex?\inline&space;d_j^t" title="d_j^t" /> be the duration of subperiof t for itinerary j. They intend to maximize revenue through the following optimization problem: <img src="https://latex.codecogs.com/svg.latex?\inline&space;\max&space;R(\lambda)=\sum_{j=1}^n&space;\sum_{t=1}^{T_j}&space;\lambda_j^tP_j^t(\lambda)d_j^t" title="\max R(\lambda)=\sum_{j=1}^n \sum_{t=1}^{T_j} \lambda_j^tP_j^t(\lambda)d_j^t" /> with some proper constraints. In this programming <img src="https://latex.codecogs.com/svg.latex?\inline&space;\lambda_j^t" title="\lambda_j^t" /> are decision variables and are demand density (amount of demand in unit time) of product 𝑗 in subperiod 𝑡, and P is a price function with respect to the demand. {Its numerical exprement is worth to check}
 
 
 
-### Type 2
-In their optimization model to revenue the descion variable is price. which is dynamic with respect to something <br/> 
-In ![this paper](https://github.com/hamidehhhs/Pricing-/blob/master/paper/Fare%20Opt%20and%20passenger%20choice%20behavior.pdf) this paper examines how to adjust ticket price over time based on passenger choice behavior for each O-D.<br/>
-Customer categories 
-* myopic : buy a product as soon as its price is less than their reservation price
-* strategic : optimize their purchase behavior according to the company pricing strategy
-In we assume myopic behavior in this paper. Since there is not too much information and time for customers to make strategic decisions when purchasing railway tickets
-In this paper they use the following model for Passenger demand is usually characterized as a Poisson process,
 
 ### Revenue optimization in the present of competitor 
 
