@@ -1,6 +1,6 @@
 # Revenue Management with Price Optimization 
 * Revenue is the income that a business has from its normal business activities, usually from the sale of goods and services to customers.
-* Revenue management is aimed to find a way of selling the right product to the right customer at the right time for the right price.
+* Revenue management is aimed to find a way of selling the right product to the right customer at the right time for the right price.Revenue management problem can be decomposed into four distinct but related sub- problems that are usually treated separately: demand forecasting, overbooking, capacity allocation and pricing.
 Here we will review some papers concerning this subject. 
 
  ### [Revenue management with seat inventory control method Case study China high speed railway](https://github.com/hamidehhhs/Pricing-/blob/master/paper/seat%20assignment%20model%20.pdf)
