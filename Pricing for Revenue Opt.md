@@ -1,6 +1,6 @@
 # Revenue Management with Price Optimization 
 * Revenue is the income that a business has from its normal business activities, usually from the sale of goods and services to customers.
-* Revenue management is aimed to find a way of selling the right product to the right customer at the right time for the right price.Revenue management problem can be decomposed into four distinct but related sub- problems that are usually treated separately: demand forecasting, overbooking, capacity allocation and pricing.
+* Revenue management is aimed to find a way of selling the right product to the right customer at the right time for the right price.Revenue management problem can be decomposed into four distinct but related subproblems that are usually treated separately: demand forecasting, overbooking, capacity allocation and pricing. Experts agree that pricing is vital in RM.
 Here we will review some papers concerning this subject. 
 
  ### [Revenue management with seat inventory control method Case study China high speed railway](https://github.com/hamidehhhs/Pricing-/blob/master/paper/seat%20assignment%20model%20.pdf)
@@ -38,3 +38,11 @@ of mode i, for a different time t and different number of booking x. They formul
 the price after taking into account the cancalation refund. and find the optimum pricing strategy for each mode.
 {Their model for revenue is very intersting , the whole paper is very worth to read!}
 
+### [Bilevel model to maximize revenue by pricing and seat inventory control Case study North American Airline](https://github.com/hamidehhhs/Pricing-/blob/master/paper/bilevel%20model%20for%20fare%20price.pdf)
+They used the idea of [bilevel optimization problems](https://arxiv.org/pdf/1705.06270.pdf) to model revenue management. 
+They define an optimization problem with the following format: <br/>
+<img src="https://latex.codecogs.com/svg.latex?\inline&space;\begin{array}{cc}&space;\max_{x,\gamma}&space;F(x,\gamma)&space;&&space;\\&space;&&space;(x,\gamma)\in&space;X\\&space;&&space;\gamma\in&space;argmin_{\gamma\in&space;Y(x)}&space;f(x,\gamma)&space;\end{array}" title="\begin{array}{cc} \max_{x,\gamma} F(x,\gamma) & \\ & (x,\gamma)\in X\\ & \gamma\in argmin_{\gamma\in Y(x)} f(x,\gamma) \end{array}" />
+* Breif reveiw: Their decision variables of their optimization problem are: 1- product fares (a product is an O-D itinerary ) 2- number of passengers buy a given product. The whole model is decsribed on page 8 of the paper. The upper level optimization is maximizing airline revenue that is price  multiply nummber of passenger sum over all airline flight, product and customer group. In the lower level {to get the better estimation of demand} find optimum number of passenger by minimizeing their travel disutility.
+Their intution behind using the bilevel model is that, user try to minimze their own disutility of travel from origin to destination, which is dependent on fare structure, seat availability, flight duration, etc.<br/>
+Advantage of their model is that, it makes  possible to take into account customer segmentation and behaviour, with respect ot the airline fare and competitors. While 
+disadvantage is that the model set an static optimum price {Need to run several times a perday to make it dynamic!}
