@@ -75,5 +75,6 @@ Advantage of their model is that, it makes  possible to take into account custom
 the airline fare and competitors. While 
 disadvantage is that the model set an static optimum price {Need to run several times a perday to make it dynamic!}
 
+### [Revenue managment with limited demand information, using online pricing](https://github.com/hamidehhhs/Pricing-/blob/master/paper/online%20pricing.pdf)
 
 
