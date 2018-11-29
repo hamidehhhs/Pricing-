@@ -1,4 +1,4 @@
-# Revenue Management with Price Optimization 
+# Pricing for Revenue Management
 * Revenue is the income that a business has from its normal business activities, usually from the sale of goods and services to customers.
 * Revenue management is aimed to find a way of selling the right product to the right customer at the right time for the right price 
 to improve profits by controlling the prices and availabilities of various products. 
