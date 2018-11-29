@@ -7,7 +7,7 @@ to improve profits by controlling the prices and availabilities of various produ
 Here we will review some papers concerning this subject. 
 
 ### [Revenue management with seat inventory control method Case study China high speed railway](https://github.com/hamidehhhs/Pricing-/blob/master/paper/seat%20assignment%20model%20.pdf)
-In this work they don't want to set a price for a particular product, but their goal is to find the optimum distribution of their products
+In this work they don't want to set a price for a particular product, but their goal is to find the optimum distribution of their resource and products
 with a predefined price to improve the revenue. <br/>
 Means, they try to desing an optimum seat allocation, by varying booking limits, for a certain period of time and multiple train with different 
 stop available for a same O-D itinerary. 
